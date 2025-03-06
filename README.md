@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manu Shukla</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manushukla1&label=Profile%20views&color=0e75b6&style=flat" alt="manushukla1" /> </p>
-
 - 🔭 I’m currently working on **ETL Pipeline project**
 
 - 🌱 I’m currently learning **Pyspark, SQL and Python**
@@ -11,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Pyspark and ETL development**
 
-- 💬 Ask me about **Pyspark , File System, SQL ,Python , AWS**
+- 💬 Ask me about **Pyspark, File System, SQL, Python, AWS**
 
 - 📫 How to reach me **manushukla64@gmail.com**
 
