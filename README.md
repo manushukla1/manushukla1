@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manushukla64@gmail.com**
 
-- ⚡ Fun fact **I like Retro Music**
+- ⚡ Fun fact **I like Retro Music 🎧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
