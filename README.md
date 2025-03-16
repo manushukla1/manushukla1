@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Data Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manushukla1&label=Profile%20views&color=0e75b6&style=flat" alt="manushukla1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manushukla1" alt="manushukla1" /></a> </p>
-
 - 🔭 I’m currently working on **ETL Pipeline project**
 
 - 🌱 I’m currently learning **Pyspark, SQL and Python**
@@ -30,6 +28,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manushukla1&show_icons=true&locale=en&layout=compact" alt="manushukla1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manushukla1&show_icons=true&locale=en" alt="manushukla1" /></p>
+
 
 
