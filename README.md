@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Data Engineer from India</h3>
 
 
-- 🔭 I’m currently working on **ETL Pipeline project**
+- 🔭 I’m currently working on **Making netflix data analysis mini project**
 
-- 🌱 I’m currently learning **Pyspark, SQL and Python**
+- 🌱 I’m currently learning **Data engineering in depth**
 
 - 👯 I’m looking to collaborate on **Data Engineering Projects**
 
-- 🤝 I’m looking for help with **Pyspark and ETL development**
+- 🤝 I’m looking for help with **Real time processing**
 
 - 💬 Ask me about **Pyspark, File System, SQL, Python, AWS**
 
@@ -16,7 +16,7 @@
   
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RVtL9v1TFVW5Ei_0hpmr15Nz7TtXaGIM/view?usp=sharing](https://drive.google.com/file/d/1RVtL9v1TFVW5Ei_0hpmr15Nz7TtXaGIM/view?usp=sharing)
 
-- ⚡ Fun fact **I like Retro Music 🎧**
+- ⚡ Fun fact **Still exploring it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
