@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Manu Shukla</h1>
 <h3 align="center">Data Engineer | PySpark • SQL • AWS • Big Data • Data Pipelines</h3>
 
@@ -136,5 +136,4 @@ Passionate about building scalable data platforms, designing efficient ETL pipel
 
 ---
 
-### ⭐ *"Turning raw data into scalable solutions, one pipeline at a time."*
-```
+### ⭐ *"Turning raw data into scalable solutions, one pipeline at a time."
