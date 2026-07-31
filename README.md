@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **manushukla64@gmail.com**
   
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RVtL9v1TFVW5Ei_0hpmr15Nz7TtXaGIM/view?usp=sharing](https://drive.google.com/file/d/1RVtL9v1TFVW5Ei_0hpmr15Nz7TtXaGIM/view?usp=sharing)
+- 📄 Resume [[https://drive.google.com/file/d/1RVtL9v1TFVW5Ei_0hpmr15Nz7TtXaGIM/view?usp=sharing](https://drive.google.com/file/d/10qplqvY6kpdb3F1xNRXdsV_BVxY88nNf/view?usp=sharing)]
 
 - ⚡ Fun fact **Still exploring it**
 
