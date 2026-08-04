@@ -17,7 +17,7 @@ Passionate about building scalable data platforms, designing efficient ETL pipel
 - 🤝 Open to collaborating on **Data Engineering, Big Data, and Open Source projects**.
 - 💬 Ask me about **PySpark, SQL, Python, Data Pipelines, AWS, Hadoop, Spark, and File Systems**.
 - 📫 Reach me at **manushukla64@gmail.com**
-- 📄 **Resume:** https://drive.google.com/file/d/10qplqvY6kpdb3F1xNRXdsV_BVxY88nNf/view?usp=sharing
+- 📄 **Resume:** https://drive.google.com/file/d/1aAN5x4i3HJtmHaJdeybkfIc4HZPSMVHO/view?usp=sharing
 - ⚡ Fun Fact: **I enjoy turning raw data into meaningful insights and building systems that scale.**
 
 ---
